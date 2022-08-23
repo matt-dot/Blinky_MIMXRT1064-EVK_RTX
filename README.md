@@ -115,3 +115,5 @@ The example project can be re-configured to work on custom hardware. Refer to ["
 |:------------------|:-----------------------
 | vioBUTTON0        | User Button SW8 (WAKEUP)
 | vioLED0           | User LED (GPIO_AD_B0_09)
+
+Hello from KSC
